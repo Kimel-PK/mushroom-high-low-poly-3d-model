@@ -4,10 +4,20 @@
 
 [Source](https://www.wildfooduk.com/mushroom-guide/the-great-wood-mushroom/)
 
-![reference image](reference.jpg)
+![reference image](images/reference.jpg)
 
 ## Current state
 
-![current state front](current_state_front.png)
+```text
+(Left) Low poly with textures and normal map
 
-![current state perspective](current_state_perspective.png)
+(Right) High poly (no textures)
+```
+
+### Front
+
+![current state front](images/current_state_front.png)
+
+### Perspective
+
+![current state perspective](images/current_state_perspective.png)
