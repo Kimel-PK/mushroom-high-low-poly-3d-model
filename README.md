@@ -4,7 +4,7 @@
 
 [Source](https://www.wildfooduk.com/mushroom-guide/the-great-wood-mushroom/)
 
-![reference image](images/reference.jpg)
+![reference image](Images/reference.jpg)
 
 ## Current state
 
@@ -16,8 +16,8 @@
 
 ### Front
 
-![current state front](images/current_state_front.png)
+![current state front](Images/current_state_front.png)
 
 ### Perspective
 
-![current state perspective](images/current_state_perspective.png)
+![current state perspective](Images/current_state_perspective.png)
